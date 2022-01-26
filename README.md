@@ -36,7 +36,7 @@ Open Your favorite terminal and run: ```python main.py```
 
 * Lucas Nunes - Initial work
 * Sezuni - Initial work
-* Matheus Toni - Initial work
+* Mateus Toni - Initial work
 
 See also the list of [contributors](https://github.com/lucas-study-group/LinkAPI/contributors) who participated in this project.
 
@@ -78,6 +78,10 @@ See also the list of [contributors](https://github.com/lucas-study-group/LinkAPI
 - [ ] Logica mudar pagina de busca
 - [ ] Processar Pesquisa e retornar array com links
 - [ ] Criar manager que extrai perfis com base em array
+- [ ] Criar C.R.U.D Banco de dados
+- [ ] Verificar se o usuário está atualizado
+- [ ] Opção para atualizar perfis já cadastrados
+- [ ] Criar Rest-api p/ consumir o Banco de dados
 
 ## Screenshot
 
